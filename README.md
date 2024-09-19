@@ -1,4 +1,4 @@
-<h1 align="center">Huddle</h1>
+<h1 align="center">QR code component</h1>
 <br>
 
 ### 🚨 Sobre o Projeto
